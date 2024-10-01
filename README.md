@@ -111,6 +111,10 @@ Setup Instructions
 Prerequisites
 Make sure you have Flutter installed. You can check this by running:
 
+
+![image](https://github.com/user-attachments/assets/f4fad29c-9c92-4677-be9f-f133de92d3da)
+
+
 bash
 Copy code
 flutter --version
